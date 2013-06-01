@@ -1,0 +1,23 @@
+PCBNEW-LibModule-V1  26/05/2013 14:55:01
+# encoding utf-8
+$INDEX
+Drill_3mm3
+$EndINDEX
+$MODULE Drill_3mm3
+Po 0 0 0 15 51A20621 00000000 ~~
+Li Drill_3mm3
+Sc 00000000
+AR Drill_3mm3
+Op 0 0 0
+T0 0 -1750 600 600 0 120 N I 21 N "Drill_3mm3"
+T1 250 2000 600 600 0 120 N I 21 N "VAL**"
+DC 0 0 1250 0 150 21
+$PAD
+Sh "1" C 1299 1299 0 0 0
+Dr 1299 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE  Drill_3mm3
+$EndLIBRARY
